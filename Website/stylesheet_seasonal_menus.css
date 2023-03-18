@@ -1,0 +1,51 @@
+.head-menu h1 {
+	text-align: center;
+}
+
+.course {
+	text-align: center;
+	background-color: #ffffff;
+	border: 1px solid #e6e6e6;
+	margin-top: 50px;
+	margin: 24px auto;
+	padding: 54px;
+	border-radius: 10px;
+	box-shadow: 6px 6px 10px #055500;
+	width: 70%;
+}
+		
+.course h3 a {
+	color: #055500;
+	font-size: 24px;
+	margin-bottom: 10px;
+	text-align: center;
+	text-decoration: none;
+}
+		
+.course p {
+	color: #666666;
+	font-size: 18px;
+	line-height: 1.5;
+	text-align: center;
+}
+		
+.course img {
+	width: 100%;
+	height: auto;
+	margin-top: 20px;
+	border-radius: 50%;
+}
+
+
+.footer-menu {
+	background-color: #333;
+	color: #ffffff;
+	text-align: center;
+	padding: 10px;
+	margin-top: 50px;
+	border-radius: 5px;
+}
+
+.footer-menu p {
+	text-align: center;
+}
